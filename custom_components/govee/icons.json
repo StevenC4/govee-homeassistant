@@ -130,6 +130,9 @@
       },
       "kettle_brew_mode": {
         "default": "mdi:kettle-steam"
+      },
+      "kettle_keep_warm_duration": {
+        "default": "mdi:timer-outline"
       }
     },
     "sensor": {
@@ -216,6 +219,9 @@
       },
       "govee_bottom_light": {
         "default": "mdi:floor-lamp"
+      },
+      "kettle_keep_warm": {
+        "default": "mdi:thermometer-chevron-up"
       }
     },
     "water_heater": {
